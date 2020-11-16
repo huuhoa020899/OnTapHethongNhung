@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\ADMIN\Desktop\OnTapThucHanhnhung\GPIO_VAO_RA\Bai2\Bai2.uvproj
+Project File Date:  11/16/2020
+
+<h2>Output:</h2>
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(11): error:  #165: too few arguments in function call
+main.c(15): warning:  #1-D: last line of file ends without a newline
+".\Bai2.axf" - 1 Errors, 1 Warning(s).
+Target not created
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(24): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1652 RO-data=172 RW-data=0 ZI-data=352  
+".\Bai2.axf" - 0 Errors, 1 Warning(s).
+Rebuild target 'Target 1'
+assembling Startup.s...
+compiling main.c...
+main.c(24): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=1652 RO-data=172 RW-data=0 ZI-data=352  
+FromELF: creating hex file...
+".\Bai2.axf" - 0 Errors, 1 Warning(s).
